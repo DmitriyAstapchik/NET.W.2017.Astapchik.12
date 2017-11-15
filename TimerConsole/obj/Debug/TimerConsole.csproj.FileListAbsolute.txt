@@ -1,0 +1,9 @@
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\bin\Debug\TimerConsole.exe.config
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\bin\Debug\TimerConsole.exe
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\bin\Debug\TimerConsole.pdb
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\bin\Debug\Homework.dll
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\bin\Debug\Homework.pdb
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\obj\Debug\TimerConsole.csprojResolveAssemblyReference.cache
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\obj\Debug\TimerConsole.csproj.CoreCompileInputs.cache
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\obj\Debug\TimerConsole.exe
+E:\studying\programming\EPAM training\Homework\Day 12\NET.W.2017.Astapchik.12\TimerConsole\obj\Debug\TimerConsole.pdb
