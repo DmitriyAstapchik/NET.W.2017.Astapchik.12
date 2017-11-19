@@ -30,16 +30,9 @@ namespace Homework
         }
 
         /// <summary>
-        /// signal event handler delegate
-        /// </summary>
-        /// <param name="sender">object that generates event</param>
-        /// <param name="e">signal event arguments</param>
-        public delegate void SignalEventHandler(object sender, SignalEventArgs e);
-
-        /// <summary>
         /// event on finishing timer countdown
         /// </summary>
-        public event SignalEventHandler Signal;
+        public event EventHandler<SignalEventArgs> Signal;
 
         /// <summary>
         /// starts timer countdown
